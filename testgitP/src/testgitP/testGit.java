@@ -3,7 +3,12 @@ package testgitP;
 public class testGit {
 
 	public static void main(String[] args) {
-		System.out.println("gaurav");
+		for (int i = 0;i<5;i++)
+		{
+			System.out.println("gaurav");
+	
+		}
+		
 
 	}
 
